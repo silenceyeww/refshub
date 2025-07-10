@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/silenceyeww/d6c1bd6730ed6a9f7da46b0ae1b2b807/raw/script.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/silenceyeww/Petspawner/refs/heads/main/443620430db0046d6471e1297f312a4c.txt"))()
